@@ -1,14 +1,14 @@
 #EXTM3U
     #EXTINF:-1 tvg-id="cctv1" tvg-logo="cctv1.png",CCTV-1HD
-    http://222.191.24.6:6610/2/2/ch00000090990000001021/index.m3u8?ispcode=3
+    http://183.251.61.207/PLTV/88888888/224/3221225922/index.m3u8
     #EXTINF:-1 tvg-id="cctv5" tvg-logo="cctv5.png",CCTV-5HD
-    http://222.191.24.6:6610/2/2/ch00000090990000001240/index.m3u8?ispcode=3
+    http://223.82.250.72/live/cctv-5/1.m3u8
     #EXTINF:-1 tvg-id="cctv5plus" tvg-logo="cctv5plus.png",CCTV-5+HD
-    http://222.191.24.6:6610/2/2/ch00000090990000001044/index.m3u8?ispcode=3
+    http://223.82.250.72/live/hdcctv05plus/1.m3u8
     #EXTINF:-1 tvg-id="btv1" tvg-logo="btv1.png",北京卫视HD
-    http://122.96.52.11:8080/gitv_live/BTV-1/BTV-1.m3u8
+    http://223.82.250.72/live/hdbeijingstv/1.m3u8
     #EXTINF:-1 tvg-id="hubei" tvg-logo="hubei.png",湖北卫视HD
-    http://223.82.250.95:8080/ysten-businessmobile/live/hdhubeistv/astv.m3u8
+    http://223.82.250.72/live/hdhubeistv/1.m3u8
     #EXTINF:-1 tvg-id="hunan" tvg-logo="hunan.png",湖南卫视HD
     http://223.82.250.95:8080/ysten-businessmobile/live/hdhunanstv/astv.m3u8
     #EXTINF:-1 tvg-id="shenzhen" tvg-logo="shenzhen.png",深圳卫视HD
