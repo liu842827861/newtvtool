@@ -345,7 +345,7 @@ http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
 http://live4.tdm.com.mo:80/ch2/_definst_//ch2.live/playlist.m3u8
 #EXTINF:-1,北京纪实
 http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
-#EXTINF:-1,北京�?
+#EXTINF:-1,北京使
 http://ivi.bupt.edu.cn/hls/btv6hd.m3u8
 #EXTINF:-1,北京卫视 HD
 http://223.110.243.173/PLTV/3/224/3221227246/index.m3u8
@@ -491,7 +491,7 @@ http://117.158.206.60:9080/live/live31_tzwj_500k.m3u8
 http://weblive.hebtv.com/live/hbys_bq/index.m3u8
 #EXTINF:-1,河南卫视
 http://223.110.243.147/PLTV/3/224/3221225632/index.m3u8
-#EXTINF:-1,黑龙江卫�?HD
+#EXTINF:-1,黑龙江卫觿HD
 http://223.110.243.169/PLTV/3/224/3221227252/index.m3u8
 #EXTINF:-1,湖北卫视 HD
 http://223.110.243.171/PLTV/3/224/3221227211/index.m3u8
@@ -571,13 +571,13 @@ http://rotation.vod.zlive.cc/channel/1083.m3u8
 http://rotation.vod.zlive.cc/channel/1218.m3u8
 #EXTINF:-1,芒果小品2
 http://rotation.vod.zlive.cc/channel/1611.m3u8
-#EXTINF:-1,美食�?
+#EXTINF:-1,美食叿
 http://rotation.vod.zlive.cc/channel/1426.m3u8
 #EXTINF:-1,南方卫视
 http://stream1.grtn.cn/tvs2/sd/live.m3u8?_upt=38c033aa1511535258
-#EXTINF:-1,內蒙�?
+#EXTINF:-1,內蒙叿
 http://stream.nmtv.cn/3/sd/live.m3u8
-#EXTINF:-1,內蒙�?
+#EXTINF:-1,內蒙叿
 http://stream.nmtv.cn/5/sd/live.m3u8
 #EXTINF:-1,宁夏卫视
 http://218.207.213.133/PLTV/88888888/224/3221225849/index.m3u8
@@ -650,8 +650,8 @@ http://live.italkdd.com/ts142/channel_066.m3u8
 #EXTINF:-1,天津卫视 HD
 http://223.110.243.170/PLTV/3/224/3221227212/index.m3u8
 #EXTINF:-1,唯心
-rtmp://flv.ccdntech.com/transcoder/_definst_/vod164_Live/live�?
-星体�?http://hls.mv.wa5.com/live/gssports1_900/playlist.m3u8
+rtmp://flv.ccdntech.com/transcoder/_definst_/vod164_Live/live亿
+星体肿http://hls.mv.wa5.com/live/gssports1_900/playlist.m3u8
 #EXTINF:-1,西安-1
 http://stream2.xiancity.cn/xatv1/sd/live.m3u8
 #EXTINF:-1,西安-2
@@ -670,7 +670,7 @@ http://rotation.vod.zlive.cc/channel/1086.m3u8
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1,小品2
 http://rotation.vod.zlive.cc/channel/1642.m3u8
-#EXTINF:-1,�?8频道
+#EXTINF:-1,斿8频道
 http://tglch8h-i.akamaihd.net/hls/live/566549/ctv/02.m3u8
 #EXTINF:-1,新疆卫视
 http://223.110.243.140/PLTV/3/224/3221225523/index.m3u8
@@ -810,8 +810,8 @@ http://112.27.218.61:8112/120000001002/G_CETV-3/index.m3u8
 http://112.27.218.61:8112/120000001002/G_CETV-4/index.m3u8
 #EXTINF:-1,重庆卫视
 http://223.110.243.146/PLTV/3/224/3221225594/index.m3u8
-#EXTINF:-1,珠海1�?HD
+#EXTINF:-1,珠海1叿HD
 http://hlslive.n21.cc/uHiS6o7/1500/live.m3u8
-#EXTINF:-1,珠海2�?HD
+#EXTINF:-1,珠海2叿HD
 http://hlslive.n21.cc/tm0Or7U/1500/live.m3u8
 
